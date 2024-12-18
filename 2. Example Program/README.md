@@ -26,7 +26,7 @@ pip install scikit-learn numpy
 2. Run the script in your terminal or preferred Python environment:
 
 ```bash
-python iris_dataset_example.py
+python iris_dataset_example.ipynb
 ```
 
 ### Code Explanation:
